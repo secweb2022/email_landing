@@ -1052,7 +1052,7 @@ a {
   }
 }
 .cid-tvtCLoIQtf {
-  background-image: url("../../../assets/images/background13.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1282.jpg");
 }
 .cid-tvtCLoIQtf .mbr-fallback-image.disabled {
   display: none;
@@ -1065,6 +1065,13 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-tvtCLoIQtf .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tvtCLoIQtf .mbr-text,
+.cid-tvtCLoIQtf .mbr-section-btn {
+  color: #fafafa;
 }
 .cid-tvtCQuJdom {
   padding-top: 2rem;
